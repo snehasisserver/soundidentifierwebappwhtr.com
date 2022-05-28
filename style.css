@@ -1,0 +1,39 @@
+body{
+    font-family: 'Baloo 2', cursive;
+    font-family: 'Koulen', cursive;
+    font-family: 'Poppins', sans-serif;
+   background-color: #f5e0dc;
+
+}
+.header_div{
+    background-color: white;
+    color: red;
+}
+.header_div p{
+    font-family: 'Baloo 2', cursive;;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family:'Poppins', sans-serif;
+    letter-spacing: 3px;
+    width: 130px;
+    font-weight: bolder;
+}
+
+.copy_right_footer{
+    background-color: gainsboro;
+    padding-top:20px;
+    padding-bottom: 20px;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    bottom: 0;
+    position: fixed;
+    color: #292828;
+    text-align: center;
+    text-shadow: 5px 5px 5px #6e6d6d;
+}
